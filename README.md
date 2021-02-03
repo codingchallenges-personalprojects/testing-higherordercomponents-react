@@ -1,3 +1,8 @@
+# An app for testing the components functionality
+
+## Using Higher Order Component (HOC)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
